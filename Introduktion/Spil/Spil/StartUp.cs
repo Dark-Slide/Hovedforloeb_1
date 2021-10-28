@@ -15,7 +15,7 @@ namespace Spil
 
         void CombatEngine(Card Player1, Card Player2)
         {
-
+            t
         }
 
         public List<Card> AddCards(List<Card> cards)
