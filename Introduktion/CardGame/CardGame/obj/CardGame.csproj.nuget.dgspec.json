@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\Lotto\\Lotto\\Lotto.csproj": {}
+    "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\CardGame\\CardGame\\CardGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\Lotto\\Lotto\\Lotto.csproj": {
+    "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\CardGame\\CardGame\\CardGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\Lotto\\Lotto\\Lotto.csproj",
-        "projectName": "Lotto",
-        "projectPath": "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\Lotto\\Lotto\\Lotto.csproj",
+        "projectUniqueName": "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\CardGame\\CardGame\\CardGame.csproj",
+        "projectName": "CardGame",
+        "projectPath": "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\CardGame\\CardGame\\CardGame.csproj",
         "packagesPath": "C:\\Users\\Dark-Slide\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\Lotto\\Lotto\\obj\\",
+        "outputPath": "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\CardGame\\CardGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
