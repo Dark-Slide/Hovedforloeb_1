@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\Introduktion_Lotto\\Introduktion_Lotto\\Introduktion_Lotto.csproj",
-      "projectName": "Introduktion_Lotto",
-      "projectPath": "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\Introduktion_Lotto\\Introduktion_Lotto\\Introduktion_Lotto.csproj",
+      "projectUniqueName": "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\CardGame\\CardGame\\CardGame.csproj",
+      "projectName": "CardGame",
+      "projectPath": "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\CardGame\\CardGame\\CardGame.csproj",
       "packagesPath": "C:\\Users\\Dark-Slide\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\Introduktion_Lotto\\Introduktion_Lotto\\obj\\",
+      "outputPath": "C:\\Users\\Dark-Slide\\Documents\\GitHub\\Hovedforloeb_1\\Introduktion\\CardGame\\CardGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

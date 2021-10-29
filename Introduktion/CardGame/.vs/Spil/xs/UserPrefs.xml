@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{46B60A65-FDDC-4005-A929-1306EF81150A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Spil/StartUp.cs">
+    <Files>
+      <File FileName="Spil/Program.cs" Line="15" Column="2" />
+      <File FileName="Spil/StartUp.cs" Line="18" Column="14" />
+      <File FileName="Spil/Card.cs" Line="7" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Spil FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
