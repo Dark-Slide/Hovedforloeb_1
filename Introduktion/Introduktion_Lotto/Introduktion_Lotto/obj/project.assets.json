@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/martinhaagendrup/GitHub/SKOLE/Hovedforloeb_1/Introduktion/Lotto/Lotto/Lotto.csproj",
-      "projectName": "Lotto",
-      "projectPath": "/Users/martinhaagendrup/GitHub/SKOLE/Hovedforloeb_1/Introduktion/Lotto/Lotto/Lotto.csproj",
+      "projectUniqueName": "/Users/martinhaagendrup/Projects/H1/Introduktion/Introduktion_Lotto/Introduktion_Lotto/Introduktion_Lotto.csproj",
+      "projectName": "Introduktion_Lotto",
+      "projectPath": "/Users/martinhaagendrup/Projects/H1/Introduktion/Introduktion_Lotto/Introduktion_Lotto/Introduktion_Lotto.csproj",
       "packagesPath": "/Users/martinhaagendrup/.nuget/packages/",
-      "outputPath": "/Users/martinhaagendrup/GitHub/SKOLE/Hovedforloeb_1/Introduktion/Lotto/Lotto/obj/",
+      "outputPath": "/Users/martinhaagendrup/Projects/H1/Introduktion/Introduktion_Lotto/Introduktion_Lotto/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/martinhaagendrup/.config/NuGet/NuGet.Config"
