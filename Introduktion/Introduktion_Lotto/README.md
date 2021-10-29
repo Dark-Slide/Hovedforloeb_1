@@ -1,2 +1,0 @@
-# Introduktion_Lotto
- 
