@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{375F4C53-92B0-4C97-A79E-4A685A587FE2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../GitHub/SKOLE/Hovedforloeb_1/Introduktion/Program.cs">
+    <Files>
+      <File FileName="Introduktion_Lotto/Program.cs" Line="31" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Introduktion__Lotto PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
