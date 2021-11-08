@@ -9,10 +9,9 @@ namespace Login_System
     public class UserData
     {
         internal class User
-        { 
-            private string Username { get; set; } // Username
+        {
             private int Id { get; set; } // User ID
-
+            private string Username { get; set; } // Username
 
             // UserData - Username, ID
             private List<User> UserInfo(List<User> users) 
@@ -29,30 +28,52 @@ namespace Login_System
 
             // Username Matcher - Return ID if the username Matches
 
-            public User UsernameMatch(string InputUsername) 
+            public static int UsernameMatch(string InputUsername) 
             {
                 List<User> users = new List<User>();
                 foreach (var user in users)
                 {
-                    if (user.Username == InputUsername)
+                    if (user.Username.ToString() == InputUsername)
                     {
-                        return ToInt32(user.Id);
+                        return user.Id;
                     }
                 }
                 return 404;
             }
         }
         internal class Password 
-        { 
-        private string password { get; set; }
+        {
+            private int Id { get; set; } // User ID
+            private string password { get; set; } // User Pass
 
             // PROTECTED PRIVATE Password Data
 
+            protected List<Password> UserPass(List<Password> usersP)
 
+            {
+                Password erfsawwi = new Password() { password = "password", Id = 0 }; usersP.Add(erfsawwi);
+                Password erfzwda = new Password() { password = "rgfiAW123", Id = 1 }; usersP.Add(erfzwda);
+                Password awwdfrg = new Password() { password = "dfefopp!", Id = 2 }; usersP.Add(awwdfrg);
+                Password sfoiesnf = new Password() { password = "efefkeowld,,,", Id = 3 }; usersP.Add(sfoiesnf);
 
+                return usersP;
+
+            }
 
             // PROTECTED PRIVATE Password Matcher
 
+            public static bool PassMatch(string InputPassword)
+            {
+                List<Password> usersP = new List<Password>();
+                foreach (var user in usersP)
+                {
+                    if (user.password == InputPassword)
+                    {
+                        return true;
+                    }
+                }
+                return false; ;
+            }
         }
     }
 }
