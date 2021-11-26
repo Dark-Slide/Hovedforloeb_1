@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8dcbfe35-fd35-4beb-b9fb-98dfd4491d23": {
+      "ProjectGuid": "8dcbfe35-fd35-4beb-b9fb-98dfd4491d23",
+      "DisplayName": "Football",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
